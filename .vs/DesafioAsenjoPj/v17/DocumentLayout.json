@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\desafioasenjopj\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|solutionrelative:desafioasenjopj\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\desafioasenjopj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|solutionrelative:desafioasenjopj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\desafioasenjopj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|solutionrelative:desafioasenjopj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|c:\\users\\diego\\desktop\\desafioasenjopj\\desafioasenjopj\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7984FD-A237-4E88-BC58-9A9E9EE0F8BA}|DesafioAsenjoPj\\DesafioAsenjoPj.csproj|solutionrelative:desafioasenjopj\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\DAL\\PessoaDAL.cs",
+              "RelativeDocumentMoniker": "DesafioAsenjoPj\\DAL\\PessoaDAL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\DAL\\PessoaDAL.cs",
+              "RelativeToolTip": "DesafioAsenjoPj\\DAL\\PessoaDAL.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwBoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:50:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\BLL\\PessoaBLL.cs",
+              "RelativeDocumentMoniker": "DesafioAsenjoPj\\BLL\\PessoaBLL.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\BLL\\PessoaBLL.cs",
+              "RelativeToolTip": "DesafioAsenjoPj\\BLL\\PessoaBLL.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:50:48.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\Form1.cs",
+              "RelativeDocumentMoniker": "DesafioAsenjoPj\\Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\Form1.cs",
+              "RelativeToolTip": "DesafioAsenjoPj\\Form1.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv6wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:23:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\Form1.cs",
+              "RelativeDocumentMoniker": "DesafioAsenjoPj\\Form1.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\DesafioAsenjoPj\\DesafioAsenjoPj\\Form1.cs [Design]",
+              "RelativeToolTip": "DesafioAsenjoPj\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T01:22:29.571Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

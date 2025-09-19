@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\bin\Debug\DesafioAsenjoPj.exe.config
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\bin\Debug\DesafioAsenjoPj.exe
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\bin\Debug\DesafioAsenjoPj.pdb
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.Properties.Resources.resources
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.exe
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.pdb
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.exe.config
+C:\Users\diego\Desktop\DesafioAsenjoPj\DesafioAsenjoPj\obj\Debug\DesafioAsenjoPj.CRUDPessoa.resources
