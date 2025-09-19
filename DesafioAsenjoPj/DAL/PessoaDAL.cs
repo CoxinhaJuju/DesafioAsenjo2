@@ -63,23 +63,29 @@ namespace DesafioAsenjoPj.DAL
 
         public static void atualizaUmaPessoa(Pessoa p)
         {
-            string aux = @"UPDATE Pessoa SET nome=@nome, telefone=@telefone, email=@email, cep=@cep,
-                           estado=@estado, cidade=@cidade, bairro=@bairro, rua=@rua, numero=@numero, complemento=@complemento
-                           WHERE id=@id";
-            strSQL = new OleDbCommand(aux, conn);
-            strSQL.Parameters.AddWithValue("@id", p.getId());
-            strSQL.Parameters.AddWithValue("@nome", p.getNome());
-            strSQL.Parameters.AddWithValue("@telefone", p.getTelefone());
-            strSQL.Parameters.AddWithValue("@email", p.getEmail());
-            strSQL.Parameters.AddWithValue("@cep", p.getCep());
-            strSQL.Parameters.AddWithValue("@estado", p.getEstado());
-            strSQL.Parameters.AddWithValue("@cidade", p.getCidade());
-            strSQL.Parameters.AddWithValue("@bairro", p.getBairro());
-            strSQL.Parameters.AddWithValue("@rua", p.getRua());
-            strSQL.Parameters.AddWithValue("@numero", p.getNumero());
-            strSQL.Parameters.AddWithValue("@complemento", p.getComplemento());
-            strSQL.ExecuteNonQuery();
+            string aux = @"UPDATE Pessoa 
+                   SET nome=@nome, telefone=@telefone, email=@email, cep=@cep,
+                       estado=@estado, cidade=@cidade, bairro=@bairro, rua=@rua, numero=@numero, complemento=@complemento
+                   WHERE id=@id";
+
+            using (var cmd = new OleDbCommand(aux, conn))
+            {
+                cmd.Parameters.AddWithValue("@nome", p.getNome());
+                cmd.Parameters.AddWithValue("@telefone", p.getTelefone());
+                cmd.Parameters.AddWithValue("@email", p.getEmail());
+                cmd.Parameters.AddWithValue("@cep", p.getCep());
+                cmd.Parameters.AddWithValue("@estado", p.getEstado());
+                cmd.Parameters.AddWithValue("@cidade", p.getCidade());
+                cmd.Parameters.AddWithValue("@bairro", p.getBairro());
+                cmd.Parameters.AddWithValue("@rua", p.getRua());
+                cmd.Parameters.AddWithValue("@numero", p.getNumero());
+                cmd.Parameters.AddWithValue("@complemento", p.getComplemento());
+                cmd.Parameters.AddWithValue("@id", p.getId()); // sempre por último, pois está por último na query
+
+                cmd.ExecuteNonQuery();
+            }
         }
+
 
         public static void consultaUmaPessoa(Pessoa p)
         {
